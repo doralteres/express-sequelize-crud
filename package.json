@@ -38,7 +38,7 @@
     "ts-node": "^10.9.2",
     "typedoc": "^0.25.7",
     "typescript": "~5.3.3",
-    "vite": "^5.0.10",
+    "vite": "^6.0.3",
     "vitest": "^1.0.4"
   },
   "scripts": {
